@@ -19,27 +19,27 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar: AVTR1,
-    name: "Tina Snow",
+    name: "Shelendra Garg",
     review:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga voluptates quidem asperiores modi ex, tempore dolor corrupti illo repudiandae ad, delectus eaque necessitatibus, tempora eos perferendis iste inventore accusantium ab!",
+    "Abhishek's depth of knowledge in frontend development is truly impressive. His expertise shines through in his code quality and innovative problem-solving. He's a valuable asset to any development team." ,
   },
   {
     avatar: AVTR2,
-    name: "Shatta Wale",
+    name: "Keshav Suman",
     review:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga voluptates quidem asperiores modi ex, tempore dolor corrupti illo repudiandae ad, delectus eaque necessitatibus, tempora eos perferendis iste inventore accusantium ab!",
+    "Abhishek's contributions to our team have been exceptional. He consistently delivers high-quality code and collaborates seamlessly with our backend developers. His deep knowledge of frontend technologies makes him an invaluable asset.",
   },
   {
     avatar: AVTR3,
-    name: "Kwame Despite",
+    name: "Nikhil Chouhan",
     review:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga voluptates quidem asperiores modi ex, tempore dolor corrupti illo repudiandae ad, delectus eaque necessitatibus, tempora eos perferendis iste inventore accusantium ab!",
+    "I've had the privilege of working closely with Abhishek on several complex projects. His meticulous attention to detail and commitment to writing clean, maintainable code is second to none. He's a senior developer you can always rely on.",
   },
   {
     avatar: AVTR4,
-    name: "McBrown",
+    name: "Ranjeet Gawande",
     review:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga voluptates quidem asperiores modi ex, tempore dolor corrupti illo repudiandae ad, delectus eaque necessitatibus, tempora eos perferendis iste inventore accusantium ab!",
+    "Working alongside Abhishek has been a pleasure. His frontend development skills perfectly complement my design work. He takes the time to understand the design vision and translates it into pixel-perfect code. His collaborative nature makes our projects shine.",
   },
 ];
 

@@ -39,7 +39,7 @@ const About = () => {
             </artical>
           </div>
 
-          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem tempore, quam sit aliquam culpa laborum explicabo labore eveniet. Repudiandae, esse ut. Esse veritatis at, quidem corporis enim quae nam. Amet?</p>
+          <p>I'm Abhishek Jangid, a dedicated Frontend Developer. With 6 months of internship experience, I've delved into creating captivating web interfaces. My journey continues beyond the internship as I stay updated with the latest technologies and design trends. I'm passionate about merging creativity and technology to craft exceptional web experiences. When not coding, I seek inspiration in art. Let's collaborate to bring your digital visions to life.</p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>

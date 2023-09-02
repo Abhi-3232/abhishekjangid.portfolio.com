@@ -1,7 +1,7 @@
 import React from 'react';
 import './contect.css';
 import {MdOutlineEmail} from 'react-icons/md'
-import {RiMessengerLine} from 'react-icons/ri'
+import {AiOutlineLinkedin} from 'react-icons/ai'
 import {BsWhatsapp} from 'react-icons/bs'
 import { useRef } from 'react';
 import emailjs from 'emailjs-com'
@@ -40,10 +40,10 @@ const Contect = () => {
             <a href="mailto:abhijangid5555@gmail.com" target={'_blank'}>Send a message</a>
           </article>
           <article className='contact__option'>
-            <RiMessengerLine className='contact__option-icon'/>
-            <h4>Messanger</h4>
+            <AiOutlineLinkedin className='contact__option-icon'/>
+            <h4>Linkedin</h4>
             <h5>Abhishek Jangid</h5>
-            <a href="https://www.facebook.com/" target={'_blank'}>Send a message</a>
+            <a href="https://www.linkedin.com/in/abhishek-jangid-885602255" target={'_blank'}>Send a message</a>
           </article>
           <article className='contact__option'>
             <BsWhatsapp className='contact__option-icon'/>
