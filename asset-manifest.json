@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/abhishekjangid.portfolio.com/static/css/main.12a553e5.css",
+    "main.js": "/abhishekjangid.portfolio.com/static/js/main.18d1301f.js",
+    "static/media/me.png": "/abhishekjangid.portfolio.com/static/media/me.c8be4de68b7929e83f91.png",
+    "static/media/me-about.png": "/abhishekjangid.portfolio.com/static/media/me-about.35ece9814f3c538e9f54.png",
+    "static/media/portfolio5.png": "/abhishekjangid.portfolio.com/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/abhishekjangid.portfolio.com/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/abhishekjangid.portfolio.com/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/abhishekjangid.portfolio.com/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/abhishekjangid.portfolio.com/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/Abhishek jagid resume.pdf": "/abhishekjangid.portfolio.com/static/media/Abhishek jagid resume.7125b340ecf802347ec8.pdf",
+    "static/media/portfolio4.jpg": "/abhishekjangid.portfolio.com/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/abhishekjangid.portfolio.com/index.html",
+    "main.12a553e5.css.map": "/abhishekjangid.portfolio.com/static/css/main.12a553e5.css.map",
+    "main.18d1301f.js.map": "/abhishekjangid.portfolio.com/static/js/main.18d1301f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12a553e5.css",
+    "static/js/main.18d1301f.js"
+  ]
+}
